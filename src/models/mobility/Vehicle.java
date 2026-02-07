@@ -1,6 +1,6 @@
 package src.models.mobility;
 
-public class Vehicle {
+public abstract class Vehicle {
     private String color;
     private String registrationNo;
     private VehicleType vehicleType;
