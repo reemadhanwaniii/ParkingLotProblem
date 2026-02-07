@@ -1,4 +1,4 @@
-package src.models.pricing;
+package src.models.payments;
 
 public class CashPaymentStrategy implements PaymentStrategy {
     @Override
